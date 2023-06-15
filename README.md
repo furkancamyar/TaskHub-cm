@@ -3,6 +3,14 @@
 ## 🌟 Hakkında
 İşlerinizi halletmenize yardımcı olan basit yapılakcaklar listesi uygulamasıdır. Kotlin ile oluşturulmuş taskhub, eklenen bir görevi tamamlandı olarak işaretleyebilir. Görevleri not etmek için kullanılır ve görevleri güncelleyebilir veya silebilirsiniz. Room'u kullanarak da verileri yerel veritabanına kaydeder.
 
+## ✨ Screenshots
+<img src="Screenshots/Screenshot_1686197094.png" width="155">&nbsp;
+<img src="Screenshots/Screenshot_1686197095.png" width="155">&nbsp;
+<img src="Screenshots/Screenshot_1686197096.png" width="155">&nbsp;
+<img src="Screenshots/Screenshot_1686197098.png" width="155">&nbsp;
+<img src="Screenshots/Screenshot_168619709010.png" width="155">&nbsp;
+<br><br>
+
 ## 🚀 Kütüphaneler
 * [Kotlin](https://kotlinlang.org)
 * [Room DataBase](https://developer.android.com/training/data-storage/room)
