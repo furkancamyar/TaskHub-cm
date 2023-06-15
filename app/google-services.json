@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "503501100700",
+    "project_id": "taskhub-300bb",
+    "storage_bucket": "taskhub-300bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503501100700:android:ac1e08c2f5204b5a907f59",
+        "android_client_info": {
+          "package_name": "com.furkancamyar.taskHub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503501100700-2jg9c1q9ao7gtrkm13iqdprn3d3mnvi8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQh5FKHXPAKYACHVFgGdVojToOZ6DSf6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503501100700-2jg9c1q9ao7gtrkm13iqdprn3d3mnvi8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
